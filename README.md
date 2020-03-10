@@ -16,3 +16,6 @@
 
 ## 5. Docker
 [Docker](https://github.com/olifer655/gogogo/blob/master/docker/README.MD)
+
+## 6. javascrept遗漏点
+[javascrept遗漏点](https://github.com/olifer655/gogogo/blob/master/javascrept/README.MD)
