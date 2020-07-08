@@ -13,6 +13,8 @@
 
 ## 4. [node](https://github.com/olifer655/node)
 
-## 5. [Docker](https://github.com/olifer655/gogogo/blob/master/docker/README.MD)
+## 5. [ES6新知识点](https://github.com/olifer655/ES6)
 
-## 6. [javascript遗漏点](https://github.com/olifer655/gogogo/blob/master/javascript/readme.md)
+## 6. [Docker](https://github.com/olifer655/gogogo/blob/master/docker/README.MD)
+
+## 7. [javascript遗漏点](https://github.com/olifer655/gogogo/blob/master/javascript/readme.md)
