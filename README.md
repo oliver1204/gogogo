@@ -18,3 +18,5 @@
 ## 6. [Docker](https://github.com/olifer655/gogogo/blob/master/docker/README.MD)
 
 ## 7. [javascript遗漏点](https://github.com/olifer655/gogogo/blob/master/javascript/readme.md)
+
+## 8. [promise原理分析](https://github.com/olifer655/promise)
