@@ -7,6 +7,7 @@
 
 ## 2. React.js
 1. [项目控件组件化](https://github.com/olifer655/component-ui)
+2. [React知识点](https://github.com/olifer655/react/issues)
 
 ## 3. 前端安全
 [blueprint](http://naotu.baidu.com/file/8d51c3bbb11334875987732bbd168716)
