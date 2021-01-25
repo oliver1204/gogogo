@@ -15,15 +15,18 @@
 7. [React-Saga](https://github.com/olifer655/react-saga)
 8. [React-Dav](https://github.com/olifer655/dva)
 
-## 3. 前端安全
-[blueprint](http://naotu.baidu.com/file/8d51c3bbb11334875987732bbd168716)
+## 3. Vue.js 
+1. [vue 源码窥探](https://github.com/olifer655/Vue)
 
-## 4. [node](https://github.com/olifer655/node)
+## 4. [promise原理分析](https://github.com/olifer655/promise)
 
 ## 5. [ES6新知识点](https://github.com/olifer655/ES6)
 
-## 6. [Docker](https://github.com/olifer655/gogogo/blob/master/docker/README.MD)
+## 6. [node](https://github.com/olifer655/node)
 
-## 7. [javascript遗漏点](https://github.com/olifer655/gogogo/blob/master/javascript/readme.md)
+## 7. [Docker](https://github.com/olifer655/gogogo/blob/master/docker/README.MD)
 
-## 8. [promise原理分析](https://github.com/olifer655/promise)
+## 8. [javascript遗漏点](https://github.com/olifer655/gogogo/blob/master/javascript/readme.md)
+
+## 9. 前端安全
+[blueprint](http://naotu.baidu.com/file/8d51c3bbb11334875987732bbd168716)
