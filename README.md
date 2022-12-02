@@ -31,6 +31,7 @@
 
 ## 9. 前端安全
 [blueprint](http://naotu.baidu.com/file/8d51c3bbb11334875987732bbd168716)
+[JWT](https://github.com/olifer655/JWT)
 
 ## 10. 代码管理
 1. [Monorepo 代码管理方式](https://github.com/olifer655/gogogo/issues/4)
