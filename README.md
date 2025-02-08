@@ -3,7 +3,7 @@
 1. [防抖](https://github.com/olifer655/gogogo/issues/2)
 2. [柯理化函数](https://github.com/olifer655/gogogo/issues/3)
 3. [react 性能优化](https://github.com/olifer655/gogogo/issues/1)
-4. [前端性能优化之HTTP缓存策略](https://juejin.im/post/5c5d1527e51d457fa72ca2c2)
+4. [前端性能优化之HTTP缓存策略](https://juejin.im/post/7111937058414788639)
 5. [javascript 垃圾收集](https://github.com/olifer655/gogogo/issues/5)
 
 ## 2. React.js
